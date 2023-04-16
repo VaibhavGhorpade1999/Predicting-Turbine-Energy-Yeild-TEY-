@@ -28,8 +28,8 @@
 
 | Regression | Simple Linear | Multiple | Decision tree | Random Forest | KNN | SVM | Bagging | Adaboost | Gradient Boosting | xgboost Regressor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Training r2_score | 0.9778 | 0.9958 | 0.9357 | 0.9982 | 0.9825 | 0.9950 | 0.9964 | 0.9851 | 0.9964 | 0.9977 |
-| Testing r2_score | 0.9771 | 0.9957 | 0.9317 | 0.9973 | 0.9814 | 0.9894 | 0.9949 | 0.9835 | 0.9962 | 0.9971 |
+| Training r2_score | 0.9778 | 0.9957 | 0.9361 | 0.9997 | 0.9981 | 0.9957 | 0.9997 | 1.0 | 0.9842 | 0.9967 | 0.9982 |
+| Testing r2_score | 0.9771 | 0.9957 | 0.9317 | 0.9982 | 0.9971 | 0.9950 | 0.9982 | 0.9966 | 0.9836 | 0.9964 | 0.9977 |
 
 ## Observations:
 - We got pretty good results for all model but it that Random forest is the best model.
